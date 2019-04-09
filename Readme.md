@@ -39,4 +39,4 @@ We used [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overv
 
 ![Makers Beehive Assembly](imgs/makers_beehive_assembly_guide.png)
 
-A detailled list of the parts and an assembly guide can be found [in this pdf](makers_beehive_assembly_guide).
+A detailled list of the parts and an assembly guide can be found [in this pdf](makers_beehive_assembly_guide.pdf).
