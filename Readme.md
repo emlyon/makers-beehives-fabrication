@@ -29,11 +29,11 @@ Instructions for the electronics part used to monitor the activity of the beehiv
 
 Makers Beehive has been designed to be fabricated using a CNC router with CTBX plywood 21mm.
 
-Use a 8mm flat milling bit to cut. The [3D model](CNC router/makers_beehive_CNC.3dm) includes the layout for CNC milling.
+Use a 8mm flat milling bit to cut. The [3D model](https://github.com/emlyon/makers-beehives-fabrication/blob/master/CNC%20router/makers_beehive_CNC.3dm) includes the layout for CNC milling.
 
 We used [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) to generate the toolpaths : you can find tutorials about the _Manufacture_ feature of Fusion 360 on [Autodesk website](https://f360ap.autodesk.com/courses#creating-toolpaths-and-programs-cam).
 
-The fusion 360 archive files are included into the [CNC router folder](CNC router)
+The fusion 360 archive files are included into the [CNC router folder](https://github.com/emlyon/makers-beehives-fabrication/tree/master/CNC%20router)
 
 ---
 
