@@ -9,7 +9,7 @@ by staff, students and alumni.
 This project upgrades a standard dadant type beehive with load sensors on the base,
 environmental sensors and camera on the roof.
 
-More info here :[makerslab.em-lyon.com](http://makerslab.em-lyon.com/)
+More info here : [makerslab.em-lyon.com](http://makerslab.em-lyon.com/)
 
 Makers' Beehive is licensed under the [CC by-nc-sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) creative commons license
 
@@ -32,6 +32,8 @@ Makers Beehive has been designed to be fabricated using a CNC router with CTBX p
 Use a 8mm flat milling bit to cut. The [3D model](CNC router/makers_beehive_CNC.3dm) includes the layout for CNC milling.
 
 We used [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) to generate the toolpaths : you can find tutorials about the _Manufacture_ feature of Fusion 360 on [Autodesk website](https://f360ap.autodesk.com/courses#creating-toolpaths-and-programs-cam).
+
+The fusion 360 archive files are included into the [CNC router folder](CNC router)
 
 ---
 
